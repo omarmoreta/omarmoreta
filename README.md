@@ -2,7 +2,7 @@
 
 - :computer: I’m currently taking courses at NJIT Software Development Bootcamp.
 - :books: I’m currently learning  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) , Redux, and  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) .
-- :raised_hand: I’m looking for help with improving my programming and preparing for a career in Software Development.
+- :raised_hand: I’m looking for help with preparing for a career in Software Development.
 - 💬 Ask me about my journey and why I enjoy it so much.
 - 📫 How to reach me: https://www.linkedin.com/in/moretaomar/
 - 😄 Pronouns: he/him
