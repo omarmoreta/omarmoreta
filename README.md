@@ -21,6 +21,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=omarmoreta&show_icons=true"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=omarmoreta&show_icons=true"/>
 
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmoreta&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmoreta&layout=compact"/>
