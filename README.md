@@ -1,8 +1,8 @@
 # Hello and Welcome 👋
 
-- :computer: I’m currently taking courses at NJIT Software Development Bootcamp.
+- :computer: I’m currently attending NJIT Software Development Bootcamp.
 - :books: I’m currently learning SQL and  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) .
-- :raised_hand: I’m looking for help with preparing for a career in Software Development.
+- :raised_hand: I’m looking opportunities as a Software Developer.
 - 💬 Ask me about my journey and why I enjoy it so much.
 - 📫 How to reach me: https://www.linkedin.com/in/moretaomar/
 - 😄 Pronouns: he/him
