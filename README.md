@@ -6,7 +6,7 @@
 - 💬 Ask me about my journey and why I enjoy it so much.
 - 📫 How to reach me: [Contact Me](https://www.linkedin.com/in/moretaomar/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love to play basketball :basketball: and I can whistle :mega: very loudly.
+- ⚡ Fun fact: I love to play basketball :basketball: and go to the movies.
 
 ## Languages and Tools
 
