@@ -1,7 +1,7 @@
 # Hello and Welcome 👋
 
 - :computer: I’m currently attending NJIT Software Development Bootcamp.
-- :books: I’m currently learning AWS Elastic Beanstock.
+- :books: I’m currently learning AWS Elastic Beanstalk.
 - :raised_hand: I’m looking for opportunities as a Software Developer.
 - 💬 Ask me about my journey and why I enjoy it so much: [Portfolio](https://moreta-portfolio.herokuapp.com/)
 - 📫 How to reach me: [Contact Me](https://www.linkedin.com/in/moretaomar/)
