@@ -1,6 +1,6 @@
 # Hello and Welcome 👋
 
-- :computer: I’m currently working as a Software Developer for PNC Bank and teaching Software Development Bootcamp at Wisconsin.
+- :computer: I’m currently working as a Software Developer for PNC Bank and at Wisconsin as a Software Development Bootcamp Associate Instructor.
 - :books: I’m currently learning Java, Selenium, and Cucumber.
 - 💬 Ask me about my journey and why I enjoy it so much: [Portfolio](https://moreta-portfolio.herokuapp.com/)
 - 📫 How to reach me: [Contact Me](https://www.linkedin.com/in/moretaomar/)
