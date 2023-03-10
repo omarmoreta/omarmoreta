@@ -1,8 +1,8 @@
 # Hello and Welcome 👋
 
-- :computer: I’m currently working as a Software Developer and also as an Associate Instructor.
-- :books: I’m currently learning Java, Selenium, and Cucumber.
-- 💬 Ask me about my journey and why I enjoy it so much: [Portfolio](https://moreta-portfolio.herokuapp.com/)
+- :computer: I’m currently working as a Software Engineer and Full-Stack Associate Instructor.
+- :books: I’m currently learning Applitools to integrate AI with Selenium and Cucumber testing.
+- 💬 Ask me about my journey and why I enjoy it so much: [Portfolio](https://omoreta-portfolio.vercel.app/)
 - 📫 How to reach me: [Contact Me](https://www.linkedin.com/in/moretaomar/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to play basketball :basketball: and go to the movies.
