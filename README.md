@@ -1,11 +1,10 @@
 # Hello and Welcome 👋
 
 - :computer: I’m currently working as a Software Engineer and Full-Stack Associate Instructor.
-- :books: I’m currently learning Applitools :bar_chart: to integrate AI with Selenium and Cucumber automation testing :white_check_mark:.
+- :books: I’m currently learning Applitools :bar_chart: to integrate AI with Selenium and Cucumber automation testing :white_check_mark:
 - 💬 Ask me about my journey and why I enjoy it so much: [Portfolio](https://omoreta-portfolio.vercel.app/)
 - 📫 How to reach me: [Contact Me](https://www.linkedin.com/in/moretaomar/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love to play basketball :basketball: and going to the movies :movie_camera:.
+- ⚡ Fun fact: I love hoopin' :basketball: and going to the movies :movie_camera:
 
 ## Languages and Tools
 
