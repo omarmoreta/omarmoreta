@@ -7,7 +7,8 @@
 - ⚡ Fun fact: I love hoopin' :basketball: and going to the movies :movie_camera:
 
 ## Languages and Tools
-
+<details>
+<summary><h1>View</h1></summary>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -55,6 +56,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+</details>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=omarmoreta&show_icons=true"/>
 
