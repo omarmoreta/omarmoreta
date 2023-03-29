@@ -57,11 +57,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
   
 </details>
-
-<details><summary><h1>View Github Stats</h1></summary>
   
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=omarmoreta&show_icons=true"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmoreta&layout=compact"/>
-
-</details>
