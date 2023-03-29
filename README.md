@@ -6,8 +6,7 @@
 - 📫 How to reach me: [Contact Me](https://www.linkedin.com/in/moretaomar/)
 - ⚡ Fun fact: I love hoopin' :basketball: and going to the movies :movie_camera:
 
-<details>
-<summary><h1>Languages and Tools</h1></summary>
+<details><summary><h1>View Languages and Tools</h1></summary> 
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -59,6 +58,10 @@
   
 </details>
 
+<details><summary><h1>View Github Stats</h1></summary>
+  
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=omarmoreta&show_icons=true"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmoreta&layout=compact"/>
+
+</details>
