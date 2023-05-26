@@ -1,9 +1,7 @@
 # Hello and Welcome 👋
 
 - :computer: I’m currently working as a Software Engineer and Full-Stack Associate Instructor.
-- :books: I’m currently learning Keras and tensorflow in a Fintech Bootcamp.
-- 💬 Ask me about my journey and why I enjoy it so much: [Portfolio](https://omoreta-portfolio.vercel.app/)
-- 📫 How to reach me: [Contact Me](https://www.linkedin.com/in/moretaomar/)
+- :books: I’m currently learning solidity and OpenZeppelin in a Fintech Bootcamp.
 - ⚡ Fun fact: I love hoopin' :basketball: and going to the movies :movie_camera:
 
 <details><summary><h3>View Languages and Tools</h3></summary> 
