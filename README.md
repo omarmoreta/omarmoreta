@@ -1,4 +1,4 @@
-# Hello and Welcome 👋
+# What's up? Thank you for the visit. 👋
 
 - :computer: I’m currently working as a Software Engineer and Full-Stack Associate Instructor.
 - :books: I’m currently learning solidity and OpenZeppelin in a Fintech Bootcamp.
