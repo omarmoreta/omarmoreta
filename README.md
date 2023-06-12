@@ -1,7 +1,7 @@
 # What's up? Thank you for the visit. 👋
 
 - :computer: I’m currently working as a Software Engineer and Full-Stack Associate Instructor.
-- :books: I’m currently learning solidity and OpenZeppelin in a Fintech Bootcamp.
+- :books: I’m currently learning solidity and OpenZeppelin in a Fintech Bootcamp and also ruby.
 - ⚡ Fun fact: I love hoopin' :basketball: and going to the movies :movie_camera:
 
 <details><summary><h3>View Languages and Tools</h3></summary> 
