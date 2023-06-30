@@ -1,8 +1,8 @@
 # What's up? Thank you for the visit. 👋
 
-- :computer: I’m currently working as a Software Engineer and Full-Stack Associate Instructor.
-- :books: I’m currently learning solidity and OpenZeppelin in a Fintech Bootcamp and also ruby.
-- ⚡ Fun fact: I love hoopin' :basketball: and going to the movies :movie_camera:
+## about me
+- :computer: working && teaching:books:
+- ⚡I love :basketball: and watching :movie_camera:
 
 <details><summary><h3>View Languages and Tools</h3></summary> 
   
@@ -53,7 +53,10 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=omarmoreta&show_icons=true"/>
   
 </details>
   
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=omarmoreta&show_icons=true"/>
+
